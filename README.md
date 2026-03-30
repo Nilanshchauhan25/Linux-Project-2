@@ -4,8 +4,8 @@
 
 | Role | Details |
 | :--- | :--- |
-| **Student Name** | Asmit yadav |
-| **Registration Number** | 24BCE11315 |
+| **Student Name** | Nilansh Chauhan |
+| **Registration Number** | 24BCE10323 |
 | **Chosen Software** | Apache HTTP Server (`apache2`) |
 | **Environment** | Ubuntu 24.04 LTS |
 
